@@ -1,0 +1,26 @@
+{
+  "responsive-preview": {
+    "Mobile": [
+      320,
+      675
+    ],
+    "Tablet": [
+      1024,
+      765
+    ],
+    "Desktop": [
+      1400,
+      800
+    ],
+    "Desktop  HD": [
+      1920,
+      1080
+    ]
+  },
+  "dependencies": {
+    "@react-google-maps/api": "2.18.1",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-error-overlay": "6.0.11"
+  }
+}
